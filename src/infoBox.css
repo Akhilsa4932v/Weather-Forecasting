@@ -1,0 +1,15 @@
+.infoBox{
+    text-align: center;
+}
+
+.cardCointainer{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.cardCointainer p{
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,12 +1,8 @@
-# Weather-Forecasting
-This React-based weather forecasting application provides real-time weather updates for any location.
- It features a user-friendly interface to display temperature, humidity, wind speed. This uses a weather API to fetch accurate data and supports location-based and manual search functionality.
+# React + Vite
 
- 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-
-
-https://github.com/user-attachments/assets/09b44607-609d-4374-9a81-d3d6b0c3b3c8
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
